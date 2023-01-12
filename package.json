@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-file-manipulation-practices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/romesdev/nodejs-file-manipulation-practices.git",
+  "author": "romesdev",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.8.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.15",
+    "@types/multer": "^1.4.7",
+    "prisma": "^4.8.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.4"
+  }
+}
