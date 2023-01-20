@@ -1,6 +1,8 @@
 # nodejs-file-manipulation-practices
 ## File manipulation practices with Node.JS
 
+[Inspired by this tutorial](https://www.youtube.com/watch?v=moQRSQR1ATw&ab_channel=Rocketseat) 
+
 In this initial example, we were able to read a csv file and store its information in the database.
 
 For execute this project follow next steps:
